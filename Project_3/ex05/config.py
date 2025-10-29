@@ -1,0 +1,2 @@
+num_of_steps = 12
+report_template = """We made {total} observations by tossing a coin: {tails_count} were tails and {heads_count} were heads. The probabilities are {tails_percent}% and {heads_percent}%, respectively. Our forecast is that the next {num_predictions} observations will be: {prediction_summary}."""

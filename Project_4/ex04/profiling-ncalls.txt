@@ -1,0 +1,13 @@
+         422255 function calls (422247 primitive calls) in 8.702 seconds
+
+   Ordered by: cumulative time
+   List reduced from 432 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    8.702    8.702 /Users/lsh/Desktop/Sber/DS Bootcamp/Day 03/DS_Bootcamp.Day03.ID_886513-1/src/ex04/financial_enhanced.py:10(data_parser)
+        1    0.000    0.000    8.542    8.542 /Users/lsh/Desktop/Sber/DS Bootcamp/Day 03/DS_Bootcamp.Day03.ID_886513-1/src/ex00/.frenicaw/lib/python3.13/site-packages/urllib3/_request_methods.py:69(request)
+        1    0.000    0.000    8.542    8.542 /Users/lsh/Desktop/Sber/DS Bootcamp/Day 03/DS_Bootcamp.Day03.ID_886513-1/src/ex00/.frenicaw/lib/python3.13/site-packages/urllib3/_request_methods.py:147(request_encode_url)
+        1    0.000    0.000    8.542    8.542 /Users/lsh/Desktop/Sber/DS Bootcamp/Day 03/DS_Bootcamp.Day03.ID_886513-1/src/ex00/.frenicaw/lib/python3.13/site-packages/urllib3/poolmanager.py:425(urlopen)
+        1    0.000    0.000    8.542    8.542 /Users/lsh/Desktop/Sber/DS Bootcamp/Day 03/DS_Bootcamp.Day03.ID_886513-1/src/ex00/.frenicaw/lib/python3.13/site-packages/urllib3/connectionpool.py:592(urlopen)
+
+

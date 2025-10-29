@@ -1,0 +1,1 @@
+We made 12 observations by tossing a coin: 6 were tails and 6 were heads. The probabilities are 50.0% and 50.0%, respectively. Our forecast is that the next 12 observations will be: 3 tail and 9 heads.
